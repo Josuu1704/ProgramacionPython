@@ -4,7 +4,7 @@ import pickle
 
 sock = sk.socket(sk.AF_INET, sk.SOCK_STREAM)
 
-sock.connect(("127.0.0.1", 12500))
+sock.connect(("127.0.0.1", ))
 
 salir = False
 while not salir:
