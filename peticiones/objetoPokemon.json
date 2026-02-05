@@ -1,0 +1,22 @@
+{
+    "nombre": "Chikorita",
+    "tipos": [
+      "veneno",
+      "bicho"
+    ],
+    "movimientos": [
+      {
+        "move_name": "mega-punch",
+        "move_power": 80,
+        "move_pp": 20
+      }
+    ],
+    "stats": {
+      "hp":35,
+      "attack": 55,
+      "defense": 40,
+      "special-attack":50,
+      "special-defense":50,
+      "speed": 90
+    }
+}
